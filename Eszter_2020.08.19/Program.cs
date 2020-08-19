@@ -12,6 +12,7 @@ namespace Eszter_2020._08._19
         {
             //13. A program írja ki, hogy a felhasználó által megadott szám osztóit, 
             //illetve, hogy az adott számnak hány osztója van egyen és önmagán kívül.
+
         }
     }
 }
