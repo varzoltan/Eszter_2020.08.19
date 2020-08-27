@@ -35,7 +35,7 @@ namespace Eszter_2020._08._19
             for (int i = 2; i <= szam1; i++)
             {
                 int szamlalo1 = 0;
-                for (int j = 2;j<=szam1/2;j++)
+                for (int j = 2;j<=i/2;j++)
                 {
                     if (i % j == 0)
                     {
